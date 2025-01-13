@@ -81,7 +81,6 @@ export const Skills = () => {
                               <div className="skill-box">
                                 <p>C++</p>
                                 <img src={cplus} alt="Image" />
-                                {/* <FontAwesomeIcon icon={faJava} size="2x"  style={{color: "#ffd700",}} /> */}
                               </div>
                               <div className="skill-box">
                                 <p>  JS  </p>

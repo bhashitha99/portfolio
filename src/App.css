@@ -391,7 +391,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .skill {
   padding: 0 0 50px 0;
   position: relative;
-  min-height: 115vh;
+  min-height: 125vh;
 }
 .skill-bx {
   background: #151515;
@@ -492,10 +492,10 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
     grid-template-rows: repeat(6, 1fr);  
   }
   .skill {
-    min-height: 155vh; 
+    min-height: 165vh; 
   }
 }
-@media (max-width: 770px) {
+@media (max-width: 768px) {
   .skill-grid-container .skill-item .skill-set .skill-box{
     height: 4.75rem;
     width: 3.8rem;
@@ -508,7 +508,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
     gap: 0.5rem;
   }
   .skill {
-    min-height: 145vh; 
+    min-height: 155vh; 
   }
   .skill-grid-container {
     margin-top: 2rem;
@@ -526,6 +526,9 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   .skill-grid-container .skill-item .skill-set{
     gap: 0.5rem;
   }
+  .skill {
+    min-height: 155vh; 
+  }
 }
 @media (max-width: 400px) {
   .skill-grid-container .skill-item .skill-set .skill-box{
@@ -541,13 +544,6 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   }
 }
 
-.background-image-left {
-  top: 28%;
-  position: absolute;
-  bottom: 0;
-  width: 40%;
-  z-index: -4;
-}
 
 /************ Projects Css ************/
 .project {
