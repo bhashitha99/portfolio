@@ -56,7 +56,7 @@ export const Banner = () => {
                 <p className="description">Motivated Computer Science Engineering undergraduate specializing in Data Science Engineering. Proficient in machine learning, full-stack development, software solutions,
                      artificial intelligence, and data analysis. Passionate about leveraging data-driven solutions to address real-world challenges and drive innovation.</p>
                 <div className="button-div">
-                  <a href="/cv/Bhashitha_Mendis.pdf" download="Bhashitha_Viduranga_CV.pdf" style={{ textDecoration: 'none' }}>
+                  <a href="/Bhashitha_Mendis.pdf" download="Bhashitha_Viduranga_CV.pdf" style={{ textDecoration: 'none' }}>
                     <span className="download_cv">Download CV </span>
                   </a>
                 </div>
