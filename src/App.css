@@ -391,7 +391,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .skill {
   padding: 0 0 50px 0;
   position: relative;
-  min-height: 125vh;
+  min-height: 90vh;
 }
 .skill-bx {
   background: #151515;
@@ -492,7 +492,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
     grid-template-rows: repeat(6, 1fr);  
   }
   .skill {
-    min-height: 165vh; 
+    min-height: 135vh; 
   }
 }
 @media (max-width: 768px) {
@@ -508,7 +508,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
     gap: 0.5rem;
   }
   .skill {
-    min-height: 155vh; 
+    min-height: 130vh; 
   }
   .skill-grid-container {
     margin-top: 2rem;
@@ -527,7 +527,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
     gap: 0.5rem;
   }
   .skill {
-    min-height: 155vh; 
+    min-height: 120vh; 
   }
 }
 @media (max-width: 400px) {

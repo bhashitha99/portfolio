@@ -55,7 +55,7 @@ export const Skills = () => {
                     <div className="skill-bx">
                         <h2>Skills</h2>
                         <p>Proficient in diverse languages and tools,<br></br> I excel at solving complex problems and delivering effective solutions.</p>
-                        <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
+                        {/* <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                             <div className="item">
                                 <img src={meter3} alt="Image" />
                                 <h5>Full Stack Development</h5>
@@ -64,7 +64,7 @@ export const Skills = () => {
                                 <img src={meter1} alt="Image" />
                                 <h5>ML/AI Engineering</h5>
                             </div>
-                        </Carousel>
+                        </Carousel> */}
 
                         <div class="skill-grid-container">
                           <div class="skill-item">

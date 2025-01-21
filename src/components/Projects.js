@@ -2,9 +2,9 @@ import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
 import skeck_detection from "../assets/img/skeck_detection.png";
 import parcel_tracking from "../assets/img/parcel_tracking.png";
-import bus from "../assets/img/bus.jpeg";
+import bus from "../assets/img/bus.jpg";
 import action_recog from "../assets/img/action_recog.png";
-import hrm from "../assets/img/hrm.jpeg";
+import hrm from "../assets/img/hrm.jpg";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
 
